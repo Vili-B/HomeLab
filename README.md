@@ -1,1 +1,2 @@
 # HomeLab
+![](./Pictures/network.png)
